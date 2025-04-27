@@ -2,12 +2,13 @@
   "version": "1.0",
   "project": {
     "name": "GoalPost",
-    "description": "GoalPost is an open-source, privacy-centered platform that supports mutual aid groups, worker cooperatives, and communities of care in coordinating with trust, consent, and dignity. We empower small, trust-based groups to map goals, resources, and mutual support networks without relying on extractive corporate technology."
+    "description": "GoalPost is an open-source, privacy-centered platform that supports mutual aid groups, worker cooperatives, and communities of care in coordinating with trust, consent, and dignity. We empower small, trust-based groups to map goals, resources, and mutual support networks without relying on extractive corporate technology.",
+    "webpageUrl": "https://community-of-care.org"
   },
   "contact": {
     "email": "community.of.care@proton.me",
     "website": "https://community-of-care.org",
-    "repository": "https://github.com/rdamashek/GoalPost"
+    "repository": "https://github.com/GoalPost-Earth/funding"
   },
   "funding": {
     "opencollective": "https://opencollective.com/goalpost"
