@@ -1,20 +1,51 @@
 {
-  "version": "1.0",
-  "webpageUrl": "https://github.com/GoalPost-Earth/funding",
-  "project": {
-    "name": "GoalPost",
-    "description": "GoalPost is an open-source, privacy-centered platform that supports mutual aid groups, worker cooperatives, and communities of care in coordinating with trust, consent, and dignity. We empower small, trust-based groups to map goals, resources, and mutual support networks without relying on extractive corporate technology.",
-    "webpageUrl": "https://github.com/GoalPost-Earth/funding"
-  },
-  "contact": {
+  "version": "v1.0.0",
+  "entity": {
+    "type": "group",
+    "role": "steward",
+    "name": "GoalPost Project",
     "email": "community.of.care@proton.me",
-    "website": "https://community-of-care.org",
-    "repository": "https://github.com/GoalPost-Earth/funding"
+    "description": "GoalPost is an open-source, privacy-centered platform that supports mutual aid groups, worker cooperatives, and communities of care in coordinating with trust, consent, and dignity. We empower small, trust-based groups to map goals, resources, and mutual support networks without relying on extractive corporate technology.",
+    "webpageUrl": {
+      "url": "https://community-of-care.org",
+      "wellKnown": "https://community-of-care.org/.well-known/funding-manifest-urls"
+    }
   },
+  "projects": [
+    {
+      "guid": "goalpost",
+      "name": "GoalPost",
+      "description": "GoalPost helps communities of care coordinate mutual support, goals, and resources through relational, privacy-first digital infrastructure.",
+      "webpageUrl": {
+        "url": "https://community-of-care.org"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/GoalPost-Earth/funding"
+      },
+      "licenses": ["spdx:MIT"],
+      "tags": ["mutual-aid", "solidarity-economy", "privacy", "open-source", "cooperative"]
+    }
+  ],
   "funding": {
-    "opencollective": "https://opencollective.com/goalpost"
-  },
-  "needs": [
-    "We seek $50,000 in funding to expand GoalPost’s decentralized infrastructure, enabling secure federated discovery across small community instances; to develop privacy-first peer-to-peer resource sharing; and to support training, documentation, and onboarding for grassroots mutual aid groups and worker cooperatives using GoalPost. We are committed to keeping GoalPost open-source, community-co-governed, and relationally stewarded by frontline movements."
-  ]
+    "channels": [
+      {
+        "guid": "opencollective",
+        "type": "payment-provider",
+        "address": "https://opencollective.com/goalpost",
+        "description": "Support GoalPost development through Open Collective."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "core-development",
+        "status": "active",
+        "name": "Core Development Fund",
+        "description": "Support ongoing open-source development, privacy-first infrastructure, and community training.",
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": ["opencollective"]
+      }
+    ]
+  }
 }
