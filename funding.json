@@ -1,51 +1,31 @@
 {
-  "version": "v1.0.0",
+  "schemaVersion": "1.0",
   "entity": {
-    "type": "group",
-    "role": "steward",
-    "name": "GoalPost Project",
-    "email": "community.of.care@proton.me",
-    "description": "GoalPost is an open-source, privacy-centered platform that supports mutual aid groups, worker cooperatives, and communities of care in coordinating with trust, consent, and dignity. We empower small, trust-based groups to map goals, resources, and mutual support networks without relying on extractive corporate technology.",
+    "name": "GoalPost Earth",
     "webpageUrl": {
-      "url": "https://community-of-care.org",
-      "wellKnown": "https://community-of-care.org/.well-known/funding-manifest-urls"
+      "url": "https://goalpost-earth.github.io/funding"
     }
   },
   "projects": [
     {
       "guid": "goalpost",
       "name": "GoalPost",
-      "description": "GoalPost helps communities of care coordinate mutual support, goals, and resources through relational, privacy-first digital infrastructure.",
+      "description": "A mutual aid and community resilience project helping people organize and distribute resources effectively.",
       "webpageUrl": {
-        "url": "https://community-of-care.org"
+        "url": "https://goalpost-earth.github.io/funding"
       },
       "repositoryUrl": {
         "url": "https://github.com/GoalPost-Earth/funding"
       },
-      "licenses": ["spdx:MIT"],
-      "tags": ["mutual-aid", "solidarity-economy", "privacy", "open-source", "cooperative"]
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "mutual-aid",
+        "open-source",
+        "community",
+        "nonprofit"
+      ]
     }
-  ],
-  "funding": {
-    "channels": [
-      {
-        "guid": "opencollective",
-        "type": "payment-provider",
-        "address": "https://opencollective.com/goalpost",
-        "description": "Support GoalPost development through Open Collective."
-      }
-    ],
-    "plans": [
-      {
-        "guid": "core-development",
-        "status": "active",
-        "name": "Core Development Fund",
-        "description": "Support ongoing open-source development, privacy-first infrastructure, and community training.",
-        "amount": 50000,
-        "currency": "USD",
-        "frequency": "one-time",
-        "channels": ["opencollective"]
-      }
-    ]
-  }
+  ]
 }
