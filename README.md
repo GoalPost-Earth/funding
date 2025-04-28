@@ -23,7 +23,7 @@ GoalPost provides open-source infrastructure for:
 🤝 How to Support:
 If you are interested in supporting or collaborating with GoalPost Earth:
 
-    ⭐ Star this repository on GitHub
+    ⭐ Star this repository on GitHub: https://github.com/GoalPost-Earth/GoalPost
 
     📣 Share our mission with your community
 
