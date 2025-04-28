@@ -32,5 +32,7 @@ If you are interested in supporting or collaborating with GoalPost Earth:
     💸 Funding and donations: https://opencollective.com/goalpost
 
 🔗 More Information: https://community-of-care.org/goalpost/
+
+
 This project is part of a broader effort to build technology that centers care, collaboration, and community resilience.
 
