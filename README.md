@@ -2,8 +2,6 @@
 
 This repository hosts the funding manifest (`funding.json`) for the GoalPost project.
 
-GoalPost Earth
-
 GoalPost Earth is a mutual aid and community resilience project helping people organize and distribute resources effectively.
 We aim to empower communities to better connect, collaborate, and support one another through easy-to-use, open-source tools.
 
