@@ -11,6 +11,7 @@ We aim to empower communities to better connect, collaborate, and support one an
 To strengthen local and global communities by enabling effective resource sharing, communication, and mutual support.
 
 🛠 About the Project:
+
 GoalPost provides open-source infrastructure for:
 
     Organizing mutual aid efforts
@@ -30,8 +31,8 @@ If you are interested in supporting or collaborating with GoalPost Earth:
 
     🤲 Contribute ideas, code, or feedback
 
-    💸 Funding and donations coming soon!
+    💸 Funding and donations: https://opencollective.com/goalpost
 
-🔗 More Information:
+🔗 More Information: https://community-of-care.org/goalpost/
 This project is part of a broader effort to build technology that centers care, collaboration, and community resilience.
 
