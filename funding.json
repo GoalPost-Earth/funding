@@ -2,6 +2,7 @@
   "version": "v1.0.0",
   "entity": {
     "name": "GoalPost Earth",
+    "type": "organisation",
     "webpageUrl": {
       "url": "https://goalpost-earth.github.io/funding"
     }
