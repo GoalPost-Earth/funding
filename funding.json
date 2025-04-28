@@ -18,7 +18,7 @@
         "url": "https://github.com/GoalPost-Earth/funding"
       },
       "licenses": [
-        "spdx:MIT"
+        "spdx:Apache-2.0"
       ],
       "tags": [
         "mutual-aid",
@@ -27,5 +27,3 @@
         "nonprofit"
       ]
     }
-  ]
-}
