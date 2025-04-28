@@ -18,6 +18,9 @@
       "webpageUrl": {
         "url": "https://goalpost-earth.github.io/funding"
       },
+      "repositoryUrl": {
+        "url": "https://github.com/GoalPost-Earth/funding"
+      },
       "licenses": [
         "spdx:Apache-2.0"
       ],
