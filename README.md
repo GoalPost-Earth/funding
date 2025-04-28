@@ -1,6 +1,25 @@
 # GoalPost Funding Manifest
 
-This repository hosts the funding manifest (`funding.json`) for the GoalPost project.
+Welcome to the GoalPost Funding Manifest 🌱
+
+GoalPost is an open-source, privacy-centered platform designed to nourish communities of care, mutual aid groups, and collectives.
+
+This repository holds the funding.json manifest for GoalPost:
+a living document inviting support for the growth of decentralized, trust-based, non-extractive digital infrastructure.
+
+We are building for relationship, sovereignty, and mutual flourishing.
+
+If you feel resonance with the vision of technology rooted in mutual support,
+you are warmly invited to explore, connect, and tend this work alongside us.
+
+🌿
+
+    Learn more about GoalPost: https://community-of-care.org
+
+    Support the project directly: https://opencollective.com/goalpost
+
+Thank you for visiting.
+Thank you for imagining different futures with us. 🌾
 
 GoalPost Earth is a mutual aid and community resilience project helping people organize and distribute resources effectively.
 We aim to empower communities to better connect, collaborate, and support one another through easy-to-use, open-source tools.
