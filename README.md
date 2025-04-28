@@ -14,10 +14,6 @@ you are warmly invited to explore, connect, and tend this work alongside us.
 
 🌿
 
-    Learn more about GoalPost: https://community-of-care.org
-
-    Support the project directly: https://opencollective.com/goalpost
-
 Thank you for visiting.
 Thank you for imagining different futures with us. 🌾
 
