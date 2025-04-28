@@ -3,7 +3,9 @@
   "entity": {
     "name": "GoalPost Earth",
     "type": "organisation",
-    "role": "steward",
+    "role": "owner",
+    "email": "community.of.care@proton.me",
+    "description": "GoalPost Earth is a mutual aid and community resilience project helping people organize and distribute resources effectively. We aim to strengthen communities through open-source tools for connection, collaboration, and resource sharing.",
     "webpageUrl": {
       "url": "https://goalpost-earth.github.io/funding"
     }
