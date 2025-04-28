@@ -3,6 +3,7 @@
   "entity": {
     "name": "GoalPost Earth",
     "type": "organisation",
+    "role": "steward",
     "webpageUrl": {
       "url": "https://goalpost-earth.github.io/funding"
     }
